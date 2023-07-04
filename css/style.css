@@ -12,7 +12,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(/images/207.jpg) no-repeat;
+    background: url('https://github.com/naejshaw/Portfolio-4/blob/main/images/207.jpg?raw=true') no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -61,7 +61,7 @@ header{
     text-align: center;
     -webkit-text-stroke: 1px #fff;
     color: transparent;
-    background: url('/images/Design\ sem\ nome.png');
+    background: url('https://github.com/naejshaw/Portfolio-4/blob/main/images/Design%20sem%20nome.png?raw=true');
     -webkit-background-clip: text;
     background-position: 0 -20px;
     animation: backText 20s linear infinite alternate;
